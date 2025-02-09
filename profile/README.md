@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+🌟 We at `Four Dot Six (4.6)` are upgrading experiences, one step at a time.
+
+Learn more about us at [fourdotsix.com](https://fourdotsix.com/)
+
 <!--
 
 **Here are some ideas to get you started:**
