@@ -2,7 +2,7 @@
 
 🌟 We at `Four Dot Six (4.6)` are upgrading experiences, one step at a time.
 
-Learn more about us at [fourdotsix.com](https://fourdotsix.com/)
+Learn more about us at [four●six](https://fourdotsix.com/)
 
 <!--
 
